@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3400e6c.chunk.css",
+    "main.js": "/static/js/main.e06d70fc.chunk.js",
+    "main.js.map": "/static/js/main.e06d70fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d20d4d61.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d20d4d61.js.map",
+    "static/css/2.fe61e19b.chunk.css": "/static/css/2.fe61e19b.chunk.css",
+    "static/js/2.ff94be55.chunk.js": "/static/js/2.ff94be55.chunk.js",
+    "static/js/2.ff94be55.chunk.js.map": "/static/js/2.ff94be55.chunk.js.map",
+    "static/js/3.e28fd85a.chunk.js": "/static/js/3.e28fd85a.chunk.js",
+    "static/js/3.e28fd85a.chunk.js.map": "/static/js/3.e28fd85a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fe61e19b.chunk.css.map": "/static/css/2.fe61e19b.chunk.css.map",
+    "static/css/main.f3400e6c.chunk.css.map": "/static/css/main.f3400e6c.chunk.css.map",
+    "static/js/2.ff94be55.chunk.js.LICENSE.txt": "/static/js/2.ff94be55.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Mulish-Light.5957f99d.ttf",
+    "static/media/alertError.f0d1b741.svg": "/static/media/alertError.f0d1b741.svg",
+    "static/media/alertSuccess.846460b7.svg": "/static/media/alertSuccess.846460b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d20d4d61.js",
+    "static/css/2.fe61e19b.chunk.css",
+    "static/js/2.ff94be55.chunk.js",
+    "static/css/main.f3400e6c.chunk.css",
+    "static/js/main.e06d70fc.chunk.js"
+  ]
+}

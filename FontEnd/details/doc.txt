@@ -1,0 +1,74 @@
+Login scrren
+gstin form
+comman table
+validation
+filter
+
+/*********************17-12-2021********************/
+Queries
+-------------------------
+1. Please make perfect figma for login screen
+
+Update
+----------------
+1. Design Login screen
+2. Design GstIn from
+3. Create Comman component for DataTable.
+3. Working on Add MIS button, Add More button
+
+
+/*********************16-12-2021********************/
+
+Queries
+-------------------------
+1. What is Add MIS button in add new dialog?
+
+
+Update
+----------------
+1. Design Company setup page in admin 
+2. Design add new Dialog in company setup
+3. Design GstIn tab
+4. Design GstIn Dialog (Work in progress)
+
+
+
+
+/*********************15-12-2021********************/
+
+Queries
+-------------------------
+1. Which login screen is final?
+2. Why import block is grey color?
+
+
+Update
+----------------
+1. Design chart table in insight tab in dashboard
+2. design filter drawer when click on filter button
+3. design alert popup both success or error
+4. add admin navigation child menu 
+5. start company set up page design
+
+
+
+/*******************14-12-2021****************/
+
+Queries
+------------------
+1. https://i.imgur.com/KAyZ4o7.png
+2. Typography -> Dashboard Typography -> Heading 4 and body text
+3. which fonts are used ITC Charter or Georgia for Dashboard title
+4. https://i.imgur.com/BtXUzKQ.png
+
+Update
+----------------
+1. Design tab and tab panel with right side button filter and refresh data
+2. Design card and its overlay design
+3. restructure folder structure
+4. all svg icon import as component
+5. verify font size, font family, padding and margin same as figma 
+
+/*******************13-12-2021****************/
+
+1. start design

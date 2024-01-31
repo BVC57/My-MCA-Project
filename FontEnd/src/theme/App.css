@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../assets/fonts/Helvetica\ Neue\ LT\ 65\ Medium.ttf);
+}
+@font-face {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../assets/fonts/Mulish-Light.ttf);
+}
+@font-face {
+  font-family: "Charter";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../assets/fonts/CharterITC-Regu.otf);
+}
+.swal2-popup {
+  background: #e0301e;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px !important;
+  width: 563px;
+  padding-bottom: 32px;
+}
+.swal2-image {
+  margin-top: 61px;
+  margin-bottom: 53px;
+}
+.swal2-title {
+  color: #fff;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 24px;
+  padding: 0;
+}
+.swal2-html-container {
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 24px;
+  color: #e0e0e0;
+  padding-top: 31px;
+  margin: 0;
+  padding-bottom: 26px;
+}
+.swal2-styled.swal2-confirm {
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 4px;
+  background-color: transparent;
+  font-family: Arial;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 24px;
+  color: #fff;
+  padding: 8px 35px;
+  margin: 0;
+}
+.swal2-actions {
+  margin: 0;
+}
+.swal2-styled.swal2-confirm:focus {
+  box-shadow: 0 0 0 3px transparent;
+}

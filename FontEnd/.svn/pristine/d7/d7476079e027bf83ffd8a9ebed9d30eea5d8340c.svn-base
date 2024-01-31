@@ -1,0 +1,81 @@
+import DashboardIcon from "../../assets/svg/dashboardIcon";
+import DataIcon from "../../assets/svg/dataIcon";
+import ImportMonitoringIcon from "../../assets/svg/importMonitoringIcon";
+import ExportMonitoringIcon from "../../assets/svg/exportMonitoringIcon";
+import ReportIcon from "../../assets/svg/reportIcon";
+import ReconcilliationIcon from "../../assets/svg/reconcilliationIcon";
+import ReturnsIcon from "../../assets/svg/returnIcon";
+import CheckListIcon from "../../assets/svg/checkListIcon";
+import AdminIcon from "../../assets/svg/adminIcon";
+
+const sidebarConfig = [
+  {
+    title: 'Dashboard',
+    path: '/dashboard/app',
+    icon: <DashboardIcon/>
+  },
+  {
+    title: 'Data',
+    path: '/dashboard/user',
+    icon: <DataIcon/>
+  },
+  {
+    title: 'Import Monitoring',
+    path: '/dashboard/products',
+    icon: <ImportMonitoringIcon/>
+  },
+  {
+    title: 'Export Monitoring',
+    path: '/dashboard/blog',
+    icon:<ExportMonitoringIcon/>
+  },
+  {
+    title: 'Reports',
+    path: '/login',
+    icon: <ReportIcon/>
+  },
+  {
+    title: 'Reconcilliation',
+    path: '/register',
+    icon: <ReconcilliationIcon/>
+  },
+  {
+    title: 'Returns',
+    path: '/404',
+    icon: <ReturnsIcon/>
+  },
+  {
+    title: 'Checklist',
+    path: '/404',
+    icon: <CheckListIcon/>
+  },
+  {
+    title: 'Admin',
+    path: '/404',
+    icon: <AdminIcon/>,
+    children:[
+        {
+          title: 'Company Setup',
+          path: '/dashboard/company',
+        },
+        {
+          title: 'Masters',
+          path: '/404',
+        },
+        {
+          title: 'Validation Console',
+          path: '/404',
+        },
+        {
+          title: 'Alert Console',
+          path: '/404',
+        },
+        {
+          title: 'Documentation',
+          path: '/404',
+        },
+    ]
+  }
+];
+
+export default sidebarConfig;

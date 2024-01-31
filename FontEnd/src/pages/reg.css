@@ -1,0 +1,122 @@
+/* // 1:color:abdca7,2-color:248e38,3-color:afd91a,4-color:323232 */
+
+.heading1 h1{
+    font-size: 40px;
+    color:black;
+    align-items: center;
+    text-align: center;
+}
+.heading1 h3{
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    color: white;
+
+}
+.userdata{
+    height: 50rem;
+    width: 55rem;
+    margin-left:6rem;
+    background-color:#abdca7;
+    border-radius: 10px;
+}
+.heading2 h1{
+        font-size: 50px;
+        color:white;
+        align-items: center;
+        text-align: center;
+}
+.heading2 h4{
+        font-size: 20px;
+        color: rgb(19, 20, 20);
+        align-items: center;
+        text-align: center;
+}
+
+hr{
+    width: 55rem;
+    height: 3px;
+    border: none;
+    background-color: black;
+}
+
+.heading2 p{
+    font-size: 30px;
+    color:whitesmoke;
+    text-transform: uppercase;
+    margin-left: 7rem;
+    font-weight: bold;
+}
+.input-colum{
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(100%);
+    margin-left: 100px;
+}
+.input-colum .input-field{
+    width: calc(40% - 20px);
+    margin: 10px 10px;
+   
+}
+.input-field label{
+    font-size: 20px;
+}
+
+.input-field input{
+    
+    display: inline-block;
+    text-align: start;
+    cursor: text;
+    background-color:aliceblue;
+    padding: 10px;
+    border-style: none;
+    border:  1px solid silver;
+    border-radius: 10px;
+   
+}
+.input-field, input{
+    width: 90%;
+}
+.input-field input:focus{
+    border-radius: 5px;
+    background-color:rgb(203, 225, 245);
+}
+.input-field input::placeholder{
+    font-size: 16px;
+}
+
+.input-field select,option{
+    padding:10px 20px;
+    width: 90%;
+}
+
+form button{
+    box-sizing: border-box;
+    background-color:#248e38;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0.6em;
+    display: flex;
+    align-self: center;
+    margin:10px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 2rem;
+    margin-left: 20rem;
+}
+button:hover{
+    background-color: rgb(26, 143, 26);
+    cursor: pointer;
+}
+
+.olink p{
+    font-size: 20px;
+    color:blue;
+    margin-left: 16rem;
+    margin-top: 3rem;
+}
+.olink a{
+   text-decoration: none;
+}

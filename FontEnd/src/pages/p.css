@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+  
+}
+.main{
+    height: 520px;
+    width: 900px;
+    margin-left: 5rem;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color:#248e38;
+}
+.main h1{
+    font-size: 50px;
+    margin-left: 300px;
+    color:rgb(233, 215, 215);
+}
+.uinfo{
+   text-align: center;
+   align-items: center;
+   font-size: 30px;
+   margin: 2rem;
+   font-weight: bold;
+}
+
+.main button{
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    margin-left: 25rem;
+}
